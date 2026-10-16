@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+apk/
+# secrets
+.bot_token
+.view_token
+.telegram/
+accounts.json
+# runtime state / logs / debug shots
+*.log
+used*.json
+control.json
+fail*.png
